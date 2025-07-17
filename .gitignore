@@ -23,5 +23,4 @@ Thumbs.db
 .env
 *.env
 
-# Jupyter exports
-*.ipynb
+
