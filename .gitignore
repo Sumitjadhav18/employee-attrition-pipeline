@@ -1,0 +1,27 @@
+# Ignore Databricks-related system files
+.db
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Jupyter exports
+*.ipynb
